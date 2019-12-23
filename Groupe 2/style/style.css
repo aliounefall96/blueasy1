@@ -1,0 +1,340 @@
+*{
+	list-style: none;
+	text-decoration: none;
+	font-family: segoe ui;
+	padding: 0;
+	margin: 0;
+	/*overflow: hidden;*/
+	
+	/*right:-10;*/
+}
+#global{
+	text-align: center;
+    font-family: Segoe UI;
+    overflow: hidden;
+}
+
+#BLUEASY, #liens{
+	display: inline-block;
+}
+
+#back{
+   background-color: rgba(66, 76, 83, 0.7);
+   background-color:#3f4a51 ;
+   opacity: 0.7;
+   /*left: 500px;*/
+   height: 150px  ;
+}
+#BLUEASY{
+	text-transform: uppercase;
+	font-size: 20pt;
+	font-family: Segoe UI;
+    margin-left:-320px;
+	padding-top: 56px;
+	color: white;
+}
+#BLUEASY > span{
+	color: #4bcaff;
+}
+#liens{
+	float: right;
+	margin-right:98px;
+	margin-top: 46px;
+
+}
+#liens > ul{
+  float: right;
+  
+}
+#liens > ul > li{
+	position: relative;
+	float: right;
+}
+#liens > ul > li >a{
+	width: 200px;
+	z-index: 10px;
+	/*color: white;*/
+	margin-right: 50px;
+	font-size: 10pt;
+	font-weight: bold;
+	padding: 10px;
+	text-transform:uppercase;   
+}
+#liens > ul > li >a:hover{
+	font-weight:bold;
+	border: 1px solid;
+	padding: 15px;
+    color:#4bcaff;    
+}
+
+#liens > ul > li >a:active{
+	font-weight:bold;
+	font-size:20px;
+	border: 1px solid;
+	padding: 20px;
+    color:#4bcaff;    
+}
+#liens > ul > li >#home{
+	font-weight:bold;
+	border: 1px solid #4bcaff; ;
+	padding: 20px;
+    color:#4bcaff;    
+}
+
+#im >span{
+	background-color: rgba(66, 76, 83, 0.7);
+	min-width: 250px;
+	padding: 10px;
+	
+}
+#im{
+	text-align:center;	
+	padding-top: 215px;
+	text-transform:uppercase;
+    font-size:30px;
+    color: white;
+    font-weight: lighter;
+}
+#iml >span{
+	background-color: rgba(66, 76, 83, 0.7);
+	min-width: 250px;
+	padding: 10px;
+}
+#iml{
+	text-align:center;
+	padding-top: 40px;
+	text-transform:uppercase;
+	font-size:30px;
+	color: white;
+	font-weight:lighter;
+}
+#bgimg{
+	background: url("../image/Fleur.png");
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 630px;
+	float: bottom;
+	width: 100%;
+}
+#dblue{
+   height: 400px;
+   background-color: #4bcaff;
+   width: 100%;
+}
+#sulignement>span{
+	text-decoration: underline;
+}
+#sulignement{
+  font-size: 16pt;
+  float: left;
+  margin-left:174px;
+  margin-top: 50px;
+  color:white;
+  text-transform:uppercase;
+  font-weight:lighter;
+
+}
+.coffee{
+  font-size: 20px;
+  float: left;
+  margin-left:-80px;
+  text-transform:uppercase;
+  margin-top: 160px;
+  color: white;
+  font-weight:[SemiBold];
+}
+#apple1{
+  float: left;
+  margin-left:-80px;
+  font-size:10pt ;
+  margin-top: 190px;
+  color: white;
+  text-align:left;
+}
+.instant{
+  float: left;
+  margin-left:40px;
+  margin-top: 110px;
+  color: white;
+  font-size: 20px;
+  text-transform:uppercase;
+  font-weight:[SemiBold];
+}
+#apple2{
+  float: left;
+  margin-left:-77px;
+  font-size:10pt ;
+  margin-top: 4px;
+  color: white;
+  text-align:left;
+}
+.serious{
+  float: left;
+  margin-left:38px;
+  margin-top: -33px;
+  color: white;
+  font-size: 20px;
+  text-transform:uppercase;
+  font-weight:[SemiBold];
+}
+#apple3{
+  float: left;
+  margin-left:38px;
+  font-size:10pt ;
+  margin-top: -25px;
+  color: white;
+  text-align:left;
+}
+.frame{
+  float: left;
+  margin-left:35px;
+  margin-top:-55px;
+  color: white;
+  font-size: 20px;
+  text-transform:uppercase;
+  font-weight:[SemiBold];
+}
+#apple4{
+  float: left;
+  margin-left:35px;
+  font-size:10pt ;
+  margin-top: -25px;
+  color: white;
+  text-align:height;
+  text-align:left;
+}
+#case1{
+	height: 50px;
+}
+#img1{
+	margin-top:96px;
+	margin-left:-1635px;
+}
+#case2{
+	height: 50px;
+}
+#img2{
+	margin-top:43px;
+	margin-left:-1080px;
+}
+#case3{
+	height: 50px;
+}
+#img3{
+	margin-top:-28px;
+	margin-left:-650px;
+}
+#case4{
+	heigth:50px;
+}
+#img4{
+	margin-top:-69px;
+	margin-left:185px;
+}
+/*deuxieme partie (portfolio)*/
+#partie2{
+	height: 150px;
+	background-color: white;
+	width: 100%;
+}
+#PORFOLIO{
+	float: left;
+	font-family: segoe ui;
+	font-weight: lighter;
+	font-size: 20pt;
+	text-transform: uppercase;
+    margin-left:180px;
+	padding-top: 50px;
+	color: #b6babd;
+}
+#PORFOLIO>span{
+	text-decoration:underline;
+	color: #b6babd;
+}
+
+#liens2{
+	float: right;
+	margin-right:98px;
+	margin-top: 46px;
+}
+#liens2 > ul{
+  float: right; 
+}
+#liens2 > ul > li{
+	position: relative;
+	float: right;
+}
+#liens2 > ul > li >a{
+	width: 200px;
+	z-index: 10px;
+	color: #b6babd;
+	margin-right: 70px;
+	font-size: 8pt;
+	font-weight: bold;
+	padding: 10px;
+	text-transform:uppercase;   
+}
+#liens2 > ul > li >a:hover{
+	font-weight:bold;
+	border: 1px solid;
+	padding: 15px;
+    color:#4bcaff;    
+}
+
+#liens2 > ul > li >a:active{
+	font-weight:bold;
+	font-size:20px;
+	border: 1px solid;
+	padding: 20px;
+    color:#4bcaff;    
+}
+/*#liens2 > ul > li >#all{ 
+   color: #4bcaff;
+   border: 1px #4bcaff solid ;
+   font-weight: bold;
+   }*/
+
+
+/*partie trois :les images*/
+#partie3{
+	height: 630px;
+	background-color: white;
+	width: 100%;
+}
+table{
+	
+	padding-left: 162px;
+	
+}
+
+#bgd1{
+	width: 100%;
+}
+#footer
+{
+    background-color:#353f47;
+	width: 100%;
+	height: 4cm;
+	text-transform: uppercase;
+	color: #404b53;
+
+	font-family: "segoe ui";
+	font-size: 12pt;
+	margin-top: 1480px;
+	margin-left: 2px;
+	/*overflow:scroll;*/
+}
+#phome{
+	padding-top: 65px;
+	color: #4f5d65;
+	padding-left: 177px;
+	float:left;
+}
+#droite{
+	margin-left:300px;
+}
+#footer strong{
+	padding-left: 450px;
+	color: #4f5d65;
+}

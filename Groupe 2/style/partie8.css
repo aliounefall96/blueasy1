@@ -1,0 +1,115 @@
+
+#imgse{
+	
+	background-image: url(../image/sak.png);
+	background-repeat: no-repeat;
+	background-size: 120%;
+	position: relative;
+	height: 760px;
+	float: bottom;
+	margin-left:-125px;
+	
+}
+#contacts>span{
+	text-decoration: underline;
+
+}
+#contacts{
+	float:left;
+	font-family:segoe ui;
+	font-size:22px;
+	font-weight: lighter;
+	margin-left: 305px;
+	color: white;
+	padding-top: 120px;
+	text-transform:uppercase;
+}
+#fname{
+	padding-top: 180px;
+	float:left;
+	margin-left:-93px;
+	font-size:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+#bouton1>input{
+	margin-top: 200px;
+	float:left;
+	margin-left:-93px;
+	width:21%;
+	height: 1cm;
+}
+input[type="text"]{
+	background-color: transparent;
+	border: solid white 1px;
+}
+#mail{
+	padding-top: 290px;
+	float:left;
+	margin-left: -358px;
+	font-size:12px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+#bouton2>input{
+	margin-top: 310px;
+	float:left;
+	width:21%;
+	height: 1cm;
+	margin-left:-358px;
+}
+#pud{
+	font-size:15px;
+	font-family:segoe ui;
+	font-weight:[semibold];
+	padding-top: 195px;
+	color: white;
+	float:left;
+	text-align: left;
+	margin-left:128px;
+}
+#linda{
+	padding-top: 35px;
+	color: white;
+	float:left;
+	text-align: left;
+	margin-left:128px;
+	font-size:15px;
+	font-family:segoe ui;
+	font-weight:[semibold];
+
+}
+#message{
+	padding-top: 395px;
+	font-size:12px;
+	font-family:segoe ui;
+	font-weight:bold;
+	color: white;
+	text-align: left;
+	margin-left:305px;
+	text-transform: uppercase;
+}
+#bouton3 > input{
+	margin-top: 5px;
+	float:left;
+	width:65%;
+	height: 4cm;
+	margin-left:305px;
+}
+#bluemess {
+	font-size:12px;
+	font-family:segoe ui;
+	font-weight:bold;
+	text-transform: uppercase;
+	color: white;
+}
+#bluemess >button{
+	margin-top: 200px;
+	float:left;
+	margin-left:-1112px;
+	width: 20%;
+	height: 1.2cm;
+	background-color: #4bcaff;
+    border:none;
+}

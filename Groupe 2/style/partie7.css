@@ -1,0 +1,51 @@
+*{
+	font-family:segoe ui;
+}
+#bgd1{
+	background-color: #ffffff;
+	margin-top: -150px;
+	height: 190px;
+}
+#testi{
+	text-transform: uppercase;
+	font-size: 22px;
+	font-weight:lighter;
+	color: #899196;
+	float: left;
+	margin-left:181px;
+	margin-top :5px;
+}
+#testi>span{
+	text-decoration: underline;
+	font-weight:lighter;
+	color: #899196;
+}
+#guille{
+	color: #282828;
+	margin-right:-750px;
+	margin-top:52px;
+	font-family: bitter;
+	font-weight:bold;
+	font-size: 40px;
+}
+#appli{
+	float:left;
+    font-family: segoe ui;
+    font-weight:lighter;
+    color: #899196;
+    font-size:20px;
+    text-align: left;
+    margin-left:180px;
+    margin-top:20px;
+}
+
+
+#ww{
+	float:left;
+	font-family: segoe ui;
+    font-weight:bold;
+    color: #4bcaff;
+    font-size:15px;
+    margin-left:-747px;
+    margin-top:110px;
+}

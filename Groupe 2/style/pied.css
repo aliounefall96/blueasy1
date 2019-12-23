@@ -1,0 +1,25 @@
+#footer
+{
+    background-color:#353f47;
+	width: 80.6%;
+	height: 2.236cm;
+	text-transform: uppercase;
+	color: #404b53;
+
+	font-family: "segoe ui";
+	font-size: 12pt;
+	padding-top: 69px;
+	padding-left: 241px;
+	/*overflow:scroll;*/
+}
+#phome{
+	color: #4f5d65;
+	padding-left: 300px;
+}
+#droite{
+	margin-left:300px;
+}
+#footer strong{
+	padding-left: 450px;
+	color: #4f5d65;
+}
